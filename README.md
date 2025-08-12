@@ -1,6 +1,6 @@
 <h1 align="center" style="position: relative;">
   <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Shopify-logo.svg" alt="logo" width="200">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc_qWik3U0ODyCpqSDsv2aWB4i9lYEz5S0CU4BYbJtyW667m6Kl2XYtw4nf0EUqOtklZM&usqp=CAU" alt="Shopify logo" width="200">
   <br>
   Shopify Skeleton Theme
 </h1>
@@ -160,4 +160,5 @@ Visit our [CONTRIBUTING.md](./CONTRIBUTING.md) for a detailed overview of our pr
 Skeleton Theme is open-sourced under the [MIT](./LICENSE.md) License.
 
 # shopify-theme
+
 
