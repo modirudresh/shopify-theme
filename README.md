@@ -1,6 +1,6 @@
 <h1 align="center" style="position: relative;">
   <br>
-    <img src="./assets/shoppy-x-ray.svg" alt="logo" width="200">
+<img src="https://raw.githubusercontent.com/modirudresh/shopify-theme/main/assets/shoppy-x-ray.svg" alt="logo" width="200">
   <br>
   Shopify Skeleton Theme
 </h1>
@@ -158,4 +158,5 @@ Visit our [CONTRIBUTING.md](./CONTRIBUTING.md) for a detailed overview of our pr
 ## License
 
 Skeleton Theme is open-sourced under the [MIT](./LICENSE.md) License.
+
 # shopify-theme
